@@ -1,0 +1,8 @@
+{
+  "name": "social-media-agent",
+  "description": "Social media content analysis and generation agent",
+  "version": "1.0.0",
+  "author": {
+    "name": "chuyu1018"
+  }
+}

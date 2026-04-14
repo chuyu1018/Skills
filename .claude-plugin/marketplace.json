@@ -1,0 +1,24 @@
+{
+  "name": "chuyu-skills",
+  "owner": {
+    "name": "chuyu1018"
+  },
+  "metadata": {
+    "description": "Personal Claude Code skills collection by chuyu1018",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "rcy-trip",
+      "source": "./rcy-trip",
+      "description": "AI 协作旅行攻略 SOP — AI 收敛 / 人发散的分工模式，三步生成个性化深度行程",
+      "version": "1.0.0"
+    },
+    {
+      "name": "social-media-agent",
+      "source": "./social-media-agent",
+      "description": "Social media content analysis and generation agent",
+      "version": "1.0.0"
+    }
+  ]
+}
